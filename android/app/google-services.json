@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1003843665052",
+    "firebase_url": "https://smart-laboratory-safety-53979-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-laboratory-safety-53979",
+    "storage_bucket": "smart-laboratory-safety-53979.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003843665052:android:88ff4dc5f0ea07825b0159",
+        "android_client_info": {
+          "package_name": "com.example.smart_laboratory_safety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi5ZCTefz01DJo7QuvgA3vxfeGj_BsMxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
